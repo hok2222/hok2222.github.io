@@ -2,11 +2,11 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "my_site"
+  title: "Шаршов Иван"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: TPage
       - about.qmd
 
 format:
